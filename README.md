@@ -25,7 +25,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 3-2: _HTML e CSS - Primeiros passos com CSS_
 - [x] 3-3: _HTML e CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML semântico_
-- [x] 3-5: _[Projeto - Lessons Learned] ()_
+- [x] 3-5: _[Projeto - Lessons Learned]_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -33,7 +33,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 4-2: _JavaScript - Array e Loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions] ()_
+- [x] 4-5: _[Projeto - Playground Functions]_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -41,11 +41,11 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Projeto - Pixels Art] ()_
-- [x] 5-6: _[Projeto - ToDo List] ()_
-- [ ] 5-7: _[(Bônus)Projeto - Meme Generator] ()_
-- [ ] 5-7: _[(Bônus)Projeto - Adivinhe a cor] ()_
-- [ ] 5-7: _[(Bônus)Projeto - Carta Misteriosa] ()_
+- [x] 5-5: _[Projeto - Pixels Art]_
+- [x] 5-6: _[Projeto - ToDo List]_
+- [ ] 5-7: _[(Bônus)Projeto - Meme Generator]_
+- [ ] 5-7: _[(Bônus)Projeto - Adivinhe a cor]_
+- [ ] 5-7: _[(Bônus)Projeto - Carta Misteriosa]_
 
 ##### Bloco 6: HTML e CSS avançados
 
@@ -54,14 +54,14 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 6-3: _CSS Flexbox - Parte 1_
 - [x] 6-4: _CSS Flexbox - Parte 2_
 - [x] 6-5: _CSS Responsive - Mobile First_
-- [x] 6-6: _[Projeto - Trybewarts] ()_
+- [x] 6-6: _[Projeto - Trybewarts]_
 
 ##### Bloco 7: JavaScript ES6 e testes de unidade
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [x] 7-3: _Primeiros passos em Jest_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários] ()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários]_
 
 ##### Bloco 8: JavaScript ES6
 
@@ -70,48 +70,48 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-5: _JavaScript ES6 - spread opereator, parameter rest, destructuring e mais_
-- [x] 8-6: _[Projeto - Zoo Functions] ()_
+- [x] 8-6: _[Projeto - Zoo Functions]_
 
 ##### Bloco 9: Assincronia e Callbacks
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [x] 9-3: _Jest - Testes Assíncronos_
-- [x] 9-4: _[Projeto - Shopping Cart] ()_
+- [x] 9-4: _[Projeto - Shopping Cart]_
 
 ## Desenvolvimento de front-end ✅
 
-##### Bloco 11: Introdução - Reação
+##### Bloco 10: Introdução à React
 
-- [] 11-1: _'Olá, mundo! ' não reaja! _
-- [] 11-2: _Componentes de reação_
-- [] 11-3: _ [Projeto - Biblioteca de Cartões de Filme] () _
+- [ ] 10-1: _'Olá, mundo! ' no React!_
+- [ ] 10-2: _Componentes React_
+- [ ] 10-3: _[Projeto - Sistema Solar]_
 
-##### Bloco 12: Reagir
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
 - [] 12-1: _Componentes com status_
 - [] 12-2: _Eventos e formas na reação_
 - [] 12-3: _ [Projeto - Biblioteca de cartões de filme com estado] () _
 
-##### Bloco 13: Reagir
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
 - [] 13-1: _Melhorando a reutilização de componentes: props.children e PropTypes_
 - [] 13-2: _React Component Lifecycle_
 - [] 13-3: _Reat Router_
 - [] 13-4: _ [Projeto - Biblioteca de Cartões de Filme CRUD] () _
 
-##### Bloco 14: Metodologias
+##### Bloco 13: Metodologias Ágeis
 
 - [] 14-1: _Metodologias Ágeis_
 - [] 14-2: _ [Projeto - Loja online de front-end] () _
 
-##### Bloco 15: Testes de reação
+##### Bloco 14: Testes automatizados com React Testing Library
 
 - [] 15-1: _Testing React with React Testing Library_
 - [] 15-2: _Testing React com a Biblioteca de Testes React - Parte 2_
 - [] 15-3: _ [Projeto - Testes de reação] () _
 
-##### Bloco 16: Introdução ao Redux
+##### Bloco 15: Gerenciamento de estado com Redux
 
 - [] 16-1: _Introdução ao Redux_
 - [] 16-2: _Reata com Redux - Parte 1_
@@ -120,18 +120,18 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [] 16-5: _Testes síncronos com React-Redux_
 - [] 16-6: _ [Projeto - Tabela com filtros de dados] () _
 
-##### Bloco 17: Reação do Projeto
+##### Bloco 16: Projeto Jogo de Trivia
 
 - [] 17-1: _ [Projeto - Jogo de curiosidades] () _
 
-##### Bloco 18: API React & Context
+##### Bloco 17: Context API e React Hooks
 
 - [] 18-1: _React API Context_
 - [] 18-2: _React Hooks - useState e useContext_
 - [] 18-3: _React Hooks - useEffect e Custom Hooks_
 - [] 18-4: _ [Projeto - Tabela de dados StarWars com API de contexto e ganchos] () _
 
-##### Bloco 19: Projeto Front-end Final
+##### Bloco 18: Projeto App de Receitas
 
 - [] 19-1: _ [Projeto - Aplicativo de receita] () _
 
